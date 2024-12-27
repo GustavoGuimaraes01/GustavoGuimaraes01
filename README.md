@@ -1,8 +1,8 @@
-# Gustavo Guimaraes
+# Gustavo Guimarães
 
 **`Desenvolvedor Full-Stack`**
 
-Me chamo Gustavo, tenho 19 anos e atualmente moro na cidade de Campinas/SP. Sou formado em Desenvolvimento de Sistemas pelo SENAI Prof. Dr. Euryclides de Jesus Zerbini. Tenho paixão por tecnologia e estou constantemente buscando aprimorar meus conhecimentos e me atualizar nas melhores práticas e tendências do mercado de desenvolvimento de software.
+Me chamo Gustavo dos Santos Guimarães, tenho 19 anos e atualmente moro na cidade de Campinas/SP. Sou formado em Desenvolvimento de Sistemas pelo SENAI Prof. Dr. Euryclides de Jesus Zerbini. Tenho paixão por tecnologia e estou constantemente buscando aprimorar meus conhecimentos e me atualizar nas melhores práticas e tendências do mercado de desenvolvimento de software.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/gustavo-guimaraes-santos/">
