@@ -114,7 +114,7 @@ Me chamo Gustavo dos Santos Guimaraes, tenho 19 anos e atualmente moro na cidade
         align="left" 
         alt="GitHub Stats" 
         height="200" 
-        style="width: 40%;" 
+        style="width: 39%;" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGuimaraes01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />
 </p>
