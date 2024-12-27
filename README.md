@@ -1,6 +1,6 @@
 # Gustavo Guimaraes
 
-**`Desenvolvedor Back-end`**
+**`Desenvolvedor Full-Stack`**
 
 Me chamo Gustavo dos Santos Guimaraes, tenho 19 anos e atualmente moro na cidade de Campinas/SP. Tenho curso técnico em Desenvolvimento de Sistemas pelo SENAI Prof. Dr. Euryclides de Jesus Zerbini.
 
@@ -95,8 +95,9 @@ Me chamo Gustavo dos Santos Guimaraes, tenho 19 anos e atualmente moro na cidade
     title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" 
 />
+
 
 <br/>
 <br/>
