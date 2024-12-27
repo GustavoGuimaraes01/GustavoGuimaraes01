@@ -102,7 +102,7 @@ Me chamo Gustavo dos Santos Guimaraes, tenho 19 anos e atualmente moro na cidade
 ---
 ### 📊 Estatísticas
 
-<p>
+<p style="display: flex; justify-content: space-between; gap: 20px;">
   <img 
     align="left" 
     alt="GitHub Stats" 
