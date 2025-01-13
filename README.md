@@ -23,7 +23,7 @@ Me chamo Gustavo dos Santos Guimarães, tenho 19 anos e atualmente moro na cidad
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 👨🏻‍💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
